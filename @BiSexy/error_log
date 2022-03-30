@@ -1,0 +1,30 @@
+[12-Oct-2020 13:29:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
+[12-Oct-2020 13:30:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
+[12-Oct-2020 13:30:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
+[12-Oct-2020 13:30:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
+[12-Oct-2020 13:31:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
+[12-Oct-2020 13:31:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function Anti_xss() in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php:7
+Stack trace:
+#0 /home/shophie1/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shophie1/public_html/@BS_xuly/trumthe247.class.php on line 7
